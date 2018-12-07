@@ -43,19 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OrderGeneratorEvent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserAddedEventHandlerSendEmail.cs" />
-    <Compile Include="UserGeneratorEvent.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Weiz.EventBus.Core\Weiz.EventBus.Core.csproj">
-      <Project>{ed876374-cf82-49cb-a715-6a1f73fa0ef3}</Project>
-      <Name>Weiz.EventBus.Core</Name>
+    <ProjectReference Include="..\Weiz.EventBus\Weiz.EventBus.csproj">
+      <Project>{ED876374-CF82-49CB-A715-6A1F73FA0EF3}</Project>
+      <Name>Weiz.EventBus</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

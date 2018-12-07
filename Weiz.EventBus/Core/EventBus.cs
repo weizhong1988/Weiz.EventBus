@@ -61,10 +61,15 @@ namespace Weiz.EventBus.Core
 
                     Type publishEventType = Type.GetType(evt.Element("PublishEvent").Value);
                     foreach (var subscritedEvt in evt.Elements("SubscribedEvents"))
+                    {
                         foreach (var concreteEvt in subscritedEvt.Elements("SubscribedEvent"))
-                            handlers.Add(Type.GetType(concreteEvt.Value));
+                        {
+                            var type = Type.GetType(concreteEvt.Value);
+                            handlers.Add(System.Activator.CreateInstance(type));
 
-                    _dicEventHandler[publishEventType] = handlers;
+                        }
+                        _dicEventHandler[publishEventType] = handlers;
+                    }
                 }
 
                 _eventBus = new EventBus();
@@ -191,5 +196,6 @@ namespace Weiz.EventBus.Core
         }
 
         #endregion
+
     }
 }

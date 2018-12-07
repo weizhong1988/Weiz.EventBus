@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Events>
+  <Event>
+    <PublishEvent>Weiz.EventBus.Events.UserGeneratorEvent</PublishEvent>
+    <SubscribedEvents>
+      <SubscribedEvent>Weiz.EventBus.Events.UserAddedEventHandlerSendMessage</SubscribedEvent>
+      <SubscribedEvent>Weiz.EventBus.Events.UserAddedEventHandlerSendEmail</SubscribedEvent>
+    </SubscribedEvents>
+  </Event>
+</Events>

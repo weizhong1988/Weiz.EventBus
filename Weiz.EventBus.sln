@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weiz.EventBus.Console", "Weiz.EventBus.Console\Weiz.EventBus.Console.csproj", "{D00BB3A1-E79E-4DE3-91B2-F555C9D3DCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weiz.EventBus.Core", "Weiz.EventBus.Core\Weiz.EventBus.Core.csproj", "{ED876374-CF82-49CB-A715-6A1F73FA0EF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weiz.EventBus", "Weiz.EventBus\Weiz.EventBus.csproj", "{ED876374-CF82-49CB-A715-6A1F73FA0EF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

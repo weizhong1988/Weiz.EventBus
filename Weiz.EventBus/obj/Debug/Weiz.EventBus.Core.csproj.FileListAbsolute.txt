@@ -2,3 +2,7 @@ D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.Core.pdb
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.Core.dll
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.Core.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.Core.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.Core.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.Core.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.Core.pdb

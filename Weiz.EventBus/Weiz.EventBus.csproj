@@ -7,8 +7,8 @@
     <ProjectGuid>{ED876374-CF82-49CB-A715-6A1F73FA0EF3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Weiz.EventBus.Core</RootNamespace>
-    <AssemblyName>Weiz.EventBus.Core</AssemblyName>
+    <RootNamespace>Weiz.EventBus</RootNamespace>
+    <AssemblyName>Weiz.EventBus</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,11 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActionDelegatedEventHandler.cs" />
-    <Compile Include="EventBus.cs" />
-    <Compile Include="IEvent.cs" />
-    <Compile Include="IEventHandler.cs" />
+    <Compile Include="Core\ActionDelegatedEventHandler.cs" />
+    <Compile Include="Core\EventBus.cs" />
+    <Compile Include="Core\IEvent.cs" />
+    <Compile Include="Core\IEventHandler.cs" />
+    <Compile Include="Events\OrderGeneratorEvent.cs" />
+    <Compile Include="Events\UserAddedEventHandlerSendEmail.cs" />
+    <Compile Include="Events\UserGeneratorEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EventBus.xml">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

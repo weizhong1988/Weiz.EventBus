@@ -14,7 +14,7 @@
 
 using Weiz.EventBus.Core;
 
-namespace Weiz.EventBus.Console
+namespace Weiz.EventBus.Events
 {
     /// <summary>
     /// send email

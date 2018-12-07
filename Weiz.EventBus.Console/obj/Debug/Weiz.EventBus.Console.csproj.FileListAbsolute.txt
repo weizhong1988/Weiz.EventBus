@@ -6,3 +6,12 @@ D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Console\obj\Debug\Weiz.Event
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.Core.dll
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.Core.pdb
 D:\vs2015\Weiz.EventBus\Weiz.EventBus\Weiz.EventBus.Console\obj\Debug\Weiz.EventBus.Console.csprojResolveAssemblyReference.cache
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.Console.exe.config
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\obj\Debug\Weiz.EventBus.Console.exe
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\obj\Debug\Weiz.EventBus.Console.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.Console.exe
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.Console.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\obj\Debug\Weiz.EventBus.Console.csprojResolveAssemblyReference.cache
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\EventBus.xml
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Console\bin\Debug\Weiz.EventBus.pdb

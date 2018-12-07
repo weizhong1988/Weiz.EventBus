@@ -1,0 +1,9 @@
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\obj\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\obj\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\EventBus.xml
